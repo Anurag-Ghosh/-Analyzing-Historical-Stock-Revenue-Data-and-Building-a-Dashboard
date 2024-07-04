@@ -1,2 +1,7 @@
 # Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
-Final Project for Course 5 of IBM Data Analyst Professional Certificate
+### Final Project for Course 5 of IBM Data Analyst Professional Certificate
+
+#### Project Description
+Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph using Python
+
+
